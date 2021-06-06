@@ -1,7 +1,7 @@
 {
-	"name": "Room",
+	"name": "Wave",
 	"author": "VIWZ",
-	"url": "https://github.com/Room",
+	"url": "https://github.com/Wave",
 	"version": "1.0.0",
-	"modes": ["dark"]
+	"modes": ["light"]
 }
